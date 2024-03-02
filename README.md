@@ -1,5 +1,5 @@
-Hello everyone my name is Rishabh Raj, you can find me at LinkedIn as: - https://www.linkedin.com/in/ri
-shabhraj777/ or Email :- rishabhraj777@gmail.com
+Hello everyone my name is Rishabh Raj, you can find me at LinkedIn as: - https://www.linkedin.com/in/rishabhraj777/ or 
+Email :- rishabhraj777@gmail.com
 
 Here I have created two projects of JAVA Development Internship as an intern under OASIS INFOBYTE: -
 1. Automated Teller Machine (TASK 3)
