@@ -1,6 +1,9 @@
-Here I have created two projects: -
-1. Automated Teller Machine
-2. Number Guessing Game
+Hello everyone my name is Rishabh Raj, you can find me at LinkedIn as: - https://www.linkedin.com/in/ri
+shabhraj777/ or Email :- rishabhraj777@gmail.com
+
+Here I have created two projects of JAVA Development Internship as an intern under OASIS INFOBYTE: -
+1. Automated Teller Machine (TASK 3)
+2. Number Guessing Game (TASK 2)
 
    **Automated Teller Machine: -**
    It is basically a ATM which can be used for banking system like following: -
